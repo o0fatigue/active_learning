@@ -1,5 +1,13 @@
 # active_learning
-code used in DEIM2019 and master's thesis
+
+Ruide Li,  
+Tajima Lab.,  
+Graduate School of Informatics,  
+Kyoto University
+
+## Description
+
+This is the code used in DEIM2019 and master's thesis
 
 ## Environment
 
